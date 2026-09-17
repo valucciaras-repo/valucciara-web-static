@@ -3,7 +3,7 @@
   'use strict';
 
   var WHATSAPP_NUMBER = '51963839530';
-  var CONTACT_EMAIL = 'export@valucciara.pe';
+  var CONTACT_EMAIL = 'valucciara@gmail.com';
 
   // ---------- menú móvil ----------
   document.querySelectorAll('[data-nav-toggle]').forEach(function (toggle) {
